@@ -5,7 +5,7 @@
 
 Vehicle weight, spoiler_angle & AWD provided a non-random amount of variance. The two variables that had the most amount of random variance are ground_clearance and vehicle_length.
 
-= Is the slope of the linear model considered to be zero? Why or why not?
+- Is the slope of the linear model considered to be zero? Why or why not?
 
 Our slope is not zero just be looking at the p-value, which is less than 0.05.
 
