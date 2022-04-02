@@ -13,6 +13,8 @@ Our slope is not zero just be looking at the p-value, which is less than 0.05.
 
 Our R-squared value is 71%, which means roughly ~71% of the time the model will predict mpg values correctly. There are probably other factors that were not captured in the dataset that contribute to the mpg variability of the MechaCar prototypes.
 
+- Supporting analysis for the responses is below:
+
 ![image](https://user-images.githubusercontent.com/96096924/161404894-a0e88064-39a7-48b3-a3be-b52aea1ae9f9.png)
 
 # Summary Statistics on Suspension Coils,
