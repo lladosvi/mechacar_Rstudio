@@ -38,11 +38,19 @@ Lot 1 and Lot 3 the PSI values are not different from the population mean. Howev
 
 ## Across all lots:
 
+![image](https://user-images.githubusercontent.com/96096924/161405631-b5705e40-4082-4512-9433-b6971999eee5.png)
+
 ## Lot 1:
+
+![image](https://user-images.githubusercontent.com/96096924/161405648-de74a717-2bf0-48a0-935f-31cb7da34c63.png)
 
 ## Lot 2:
 
+![image](https://user-images.githubusercontent.com/96096924/161405654-d07e4da5-dca5-4591-bfd7-26be695716ad.png)
+
 ## Lot 3:
+
+![image](https://user-images.githubusercontent.com/96096924/161405670-d29454ef-ad1d-4ae7-8e90-9e0e1c7143e6.png)
 
 # Study Design: MechaCar vs Competition
 One feature that people are interested in when buying a car is how much horsepower the car has. I think horsepower, mpg and how large the engine is are 3 factors that go into consumer decision making. We can use our tests to see if our MechaCar is much different from the competiton. We can make a null hypothesis stating that it is not different from the competition and our Alternative would be the opposite. To do this we will need to use our t-test after collecting data from different types of competitor vehicles. Our t-test will be comparing the population of all types of competitor vehicles.
